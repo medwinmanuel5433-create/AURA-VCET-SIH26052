@@ -156,9 +156,7 @@ docs/                 architecture, hardware, evaluation, ablation study, diagra
 ```
 
 ## 📦 Datasets
-Not included; see [`DATASETS.txt`](DATASETS.txt): voice recordings, gunshot folders (one per weapon) and explosion `.wav` files.
-LibriSpeech is downloaded by the notebook.
-
+Download: https://github.com/medwinmanuel5433-create/AURA-VCET-SIH26052/releases/tag/v1.0-dataset
 ## 👥 Team AURA@VCET
 
 | Role | Name | Stream | Year |
