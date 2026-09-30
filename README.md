@@ -16,23 +16,20 @@
 
 ---
 
-## 🎬 Videos
+## 🎬 Video
 
-**Video 1 – Problem & Audio Demonstration**
-Animated explanation of the problem statement, proposed concept, and input/output audio demonstration.
-▶️ https://youtu.be/VIDEO_1_ID
+**Video – Complete Problem, Framework & Validation Demonstration**
+Animated explanation of the problem statement, proposed concept, complete framework, input/output audio demonstration, ablation study, experimental results, and Blender-based prototype model.
 
-**Video 2 – Complete Framework & Validation**
-Detailed framework explanation, ablation study, experimental results, and Blender-based prototype model.
-▶️ https://youtu.be/VIDEO_2_ID
+[![AURA video](https://img.youtube.com/vi/C9JFshZNukw/hqdefault.jpg)](https://youtu.be/C9JFshZNukw)
 
-<!-- Replace VIDEO_1_ID and VIDEO_2_ID with your YouTube video ids. -->
+▶️ https://youtu.be/C9JFshZNukw
 
 ---
 
 ## 📌 Problem statement
 
-| | |
+| Field | Details |
 |---|---|
 | **Problem Statement ID** | SIH26052 |
 | **Title** | AI/ML-enabled adaptive noise cancellation (ANC) that suppresses stationary, non-stationary and impulsive defence noises while keeping speech intelligible, in real time on embedded hardware |
@@ -157,6 +154,9 @@ docs/                 architecture, hardware, evaluation, ablation study, diagra
 
 ## 📦 Datasets
 Download: https://github.com/medwinmanuel5433-create/AURA-VCET-SIH26052/releases/tag/v1.0-dataset
+
+Voice recordings, gunshot folders (one per weapon) and explosion `.wav` files. LibriSpeech is downloaded automatically by the notebook.
+
 ## 👥 Team AURA@VCET
 
 | Role | Name | Stream | Year |
@@ -168,6 +168,8 @@ Download: https://github.com/medwinmanuel5433-create/AURA-VCET-SIH26052/releases
 | Team Member | Dharshini S | ECE | 3rd Year (2026–27) |
 | Team Member | Shivani K | ECE | 3rd Year (2026–27) |
 
+**Mentor:** Dr. P. Uma Maheswari
+
 Velammal College of Engineering & Technology (VCET), Madurai.
 
 ## 📚 References
@@ -175,6 +177,8 @@ Velammal College of Engineering & Technology (VCET), Madurai.
 2. C. H. Taal et al., *An Algorithm for Intelligibility Prediction of Time–Frequency Weighted Noisy Speech* (STOI), IEEE TASLP, 2011. https://doi.org/10.1109/TASL.2011.2114881
 3. ITU-T Recommendation P.862, *Perceptual Evaluation of Speech Quality (PESQ)*. https://www.itu.int/rec/T-REC-P.862
 4. H. Schröter et al., *DeepFilterNet: A Low Complexity Speech Enhancement Framework for Full-Band Audio Based on Deep Filtering*, IEEE ICASSP, 2022. https://doi.org/10.1109/ICASSP43922.2022.9747055
+5. Z.-Q. Wang et al., *TF-GridNet: Integrating Full- and Sub-Band Modeling for Speech Separation*, IEEE/ACM TASLP, 2023. https://ieeexplore.ieee.org/document/10214650
+6. V. Panayotov et al., *Librispeech: An ASR Corpus Based on Public Domain Audio Books*, IEEE ICASSP, 2015. https://ieeexplore.ieee.org/document/7178964
 
 ## 📄 License
 Copyright © 2026 Team AURA@VCET. All rights reserved. See [`LICENSE`](LICENSE).
