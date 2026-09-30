@@ -1,0 +1,13 @@
+AURA@VCET SIH26052 - datasets (not included; upload them to Google Drive yourself)
+
+Default layout (change the paths in the notebook CONFIG cell if yours differ):
+
+MyDrive/SIH/
+  VOICE/               voice recordings (.m4a, .wav or .flac)
+  archive (1)/         one sub-folder per weapon (e.g. AK-47/), gunshot .wav files inside
+  explosion_noise/     explosion .wav files
+  AURA@VCET SIH26052/  this bundle (or AURA@VCET SIH26052.zip)
+
+Downloaded automatically by the notebook:
+  LibriSpeech dev-clean (337 MB)          test speech
+  LibriSpeech train-clean-100 (6.3 GB)    only if RUN_TRAINING = True

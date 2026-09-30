@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pool_stub/
+corpus_*/
+runs/
+results/
+*.tar.gz
+AURA_*_results.zip
+AURA_PASS_FAIL_CASES*/
+.runtime/
